@@ -35,7 +35,7 @@ const Showcase = () => {
       <div className="media">
         <video src="/videos/game.mp4" loop muted autoPlay playsInline />
         <div className="mask">
-          <img src="/mask-logo.svg" />
+          <img src="/mask-logo.svg" alt="Mask Logo" />
         </div>
       </div>
 
@@ -50,7 +50,7 @@ const Showcase = () => {
                 <span className="text-white">
                   M4, the next generation of Apple silicon
                 </span>
-                . M4 powers
+                .
               </p>
               <p>
                 It drives Apple Intelligence on iPad Pro, so you can write,
