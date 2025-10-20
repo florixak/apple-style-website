@@ -22,8 +22,8 @@ const Highlights = () => {
 
   return (
     <section id="highlights">
-      <h2>There's never been a better time to upgrade.</h2>
-      <h3>Here's what you get with the new MacBook Pro.</h3>
+      <h2>There&apos;s never been a better time to upgrade.</h2>
+      <h3>Here&apos;s what you get with the new MacBook Pro.</h3>
 
       <div className="masonry">
         <div className="left-column">

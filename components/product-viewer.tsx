@@ -16,7 +16,8 @@ const ProductViewer = () => {
       <h2>Take a closer look.</h2>
       <div className="controls">
         <p className="info">
-          MacBook Pro | Available in 14" & 16" in Silver and Space Gray
+          MacBook Pro | Available in 14&quot; & 16&quot; in Silver and Space
+          Gray
         </p>
         <div className="flex-center gap-5 mt-5">
           <div className="color-control">
@@ -45,7 +46,7 @@ const ProductViewer = () => {
                   : "bg-transparent text-white"
               )}
             >
-              <p>14"</p>
+              <p>14&quot;</p>
             </div>
             <div
               onClick={() => setScale(0.08)}
@@ -55,7 +56,7 @@ const ProductViewer = () => {
                   : "bg-transparent text-white"
               )}
             >
-              <p>16"</p>
+              <p>16&quot;</p>
             </div>
           </div>
         </div>
